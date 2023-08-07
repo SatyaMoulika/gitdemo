@@ -1,0 +1,5 @@
+Welcome to Git Session for CSM
+
+We are ready to learn Git
+
+
